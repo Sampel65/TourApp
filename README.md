@@ -1,3 +1,7 @@
+Hello, this is s complete authentication screen consisting of both login and singup screen, FirebaseAuth was used for the authentication and Firebase storage to store 
+the data. some swiftui animations was included which makes it a perfect login and signup screen
+
+
 ![welcome](https://github.com/Sampel65/TourApp/assets/105233771/d8884068-dcf9-489e-bbc4-e48d9f7b6947)
 ![Screenshot 2023-12-28 at 22 03 19](https://github.com/Sampel65/TourApp/assets/105233771/c15bd516-ba74-4430-9c21-4630a0c21797)
 ![Screenshot 2023-12-28 at 22 23 17](https://github.com/Sampel65/TourApp/assets/105233771/2d08eccb-7a71-4252-a124-40874128f7a0)
